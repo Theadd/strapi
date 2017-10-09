@@ -25,6 +25,8 @@
 
 ## Quick start
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/strapi/strapi.svg)](https://greenkeeper.io/)
+
 We've been working on a major update to Strapi for several months now, rewriting the core framework and the administration panel. Performances has been increased, Developer eXperience has been improved and a brand new plugins
 ecosystem has been introduced. **Both versions are available, we still recommend you to use v1 for production usage.**.
 
